@@ -47,8 +47,8 @@ NotStarted ──▶ Ongoing ──▶ Ended ──┬──▶ Sold     (had a 
 ### Installation
 
 ```shell
-git clone <repo-url>
-cd english-auction
+git clone https://github.com/jinzm10162/English-Auction.git
+cd English-Auction
 npm install
 ```
 
